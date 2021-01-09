@@ -1,0 +1,6 @@
+framework module Pods_Technical_Assessment_Technical_AssessmentUITests {
+  umbrella header "Pods-Technical Assessment-Technical AssessmentUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
